@@ -14,7 +14,7 @@
     </div>
 </template>
 <script>
-    import inMap from "./../libs/inMap.min.js"
+    import inMap from "inmap"
     import data from "./../data/point.json";
     export default {
         methods: {},
